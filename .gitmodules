@@ -4,3 +4,6 @@
 [submodule "localization"]
 	path = localization
 	url = https://github.com/Vibhav-Gopal/localization
+[submodule "stabilization"]
+	path = stabilization
+	url = https://github.com/Vibhav-Gopal/stabilize
