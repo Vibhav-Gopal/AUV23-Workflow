@@ -1,0 +1,6 @@
+[submodule "Materov23-package"]
+	path = Materov23-package
+	url = https://github.com/Vibhav-Gopal/stabilize
+[submodule "localization"]
+	path = localization
+	url = https://github.com/Vibhav-Gopal/localization
